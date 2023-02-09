@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, React native, Flutter**
 
-- 💬 Ask me about **Salesforce.com,Apex ,LWC ,Angular ,Sales cloud, Service cloud, React**
+- 💬 Ask me about **Salesforce.com,Apex ,LWC ,Angular, Nodejs ,Sales cloud, Service cloud, React**
 
 - 📫 How to reach me **santoshlatpate12@gmail.com**
 
